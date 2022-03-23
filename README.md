@@ -1,11 +1,12 @@
 
 ### Hi there I'm [Avi!](https://AviGoel1.me)👋
-I'm Avi Goel, a 21-year old technical enthusiast who does web development and competitive programming.<br>
+
+### Here are some ideas to get you started:</br>
+- 🔭 I’m currently into the **Competitive Programming and Web development**
+- 🌱 I’m currently learning NodeJS.
+
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/avigoel1) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AviGoel1)
-
-- 🌱 I’m currently learning NodeJS
-- 😄 Pronouns: He/His/Him
 
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
