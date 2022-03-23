@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**AviGoel1/AviGoel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm [Avi!](https://AviGoel1.me)👋
+I'm Avi Goel, a 21-year old technical enthusiast who does web development and competitive programming.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/avigoel1) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AviGoel1)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning NodeJS
+- 😄 Pronouns: He/His/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Avi's github stats](https://github-readme-stats.vercel.app/api?username=AviGoel1&show_icons=true&theme=dark)
+
+⭐️ From [AviGoel1](https://github.com/AviGoel1)
